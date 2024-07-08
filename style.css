@@ -1,0 +1,7 @@
+#landscape1-mainContainer {
+  background-color: black;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
